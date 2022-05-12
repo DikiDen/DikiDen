@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DikiDen
+- 👀 I’m interested in the IT sphere and at this stage it is web programming. I am looking for self-development in everything and I like to play sports.
+- 🌱 I am currently working, but in my spare time I study HTML, CSS, Javascript and enroll in frontend courses at an IT incubator.
+- 💞️ I work with friends and acquaintances who work in the IT field, and I am also looking for cooperation with various organizations that provide programming training services in the field I need.
+- 📫 You can contact me by: ermolenko.denis.2013@mail.ru https://vk.com/id138782754
